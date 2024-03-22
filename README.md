@@ -1,1 +1,2 @@
-# Repositori ini berisi dataset untuk tugas kuliah
+# Datasets
+Repositori ini berisi dataset-dataset untuk tugas kuliah
