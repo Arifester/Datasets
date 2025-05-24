@@ -1,2 +1,2 @@
 # Datasets
-Repositori ini berisi dataset-dataset untuk tugas kuliah
+This repository contains datasets for college assignments.
