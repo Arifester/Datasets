@@ -1,2 +1,2 @@
 # Datasets
-This repository contains datasets for college assignments.
+This repository contains datasets for my college assignments.
